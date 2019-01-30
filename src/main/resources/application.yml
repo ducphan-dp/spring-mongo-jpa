@@ -1,0 +1,7 @@
+mongo:
+  host: localhost:27017,localhost:27018
+  database: userdb
+  userName: dbadmin
+  password: adminntq
+  authenticationDatabase: admin
+  replicaSetName: virtualivedb
